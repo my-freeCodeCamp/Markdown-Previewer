@@ -1,0 +1,38 @@
+.main{
+  width: 70%;
+  margin: 0 auto;
+}
+
+.title{
+  text-align: center;
+}
+
+.div{
+  width: 100%;
+  
+}
+
+#editor{
+  margin-top: 0%;
+  background-color: #c0d8d8;
+  padding: 20px 0px 20px 20px;
+  width: 100%;
+  box-shadow: 1px 1px 10px 2px #3a5f5f;
+}
+
+.subtitle{
+  margin: 0%;
+  width: 100%;
+  padding: 10px 0px 10px 20px;
+  background-color: #4aa3a3;
+  z-index: 10;
+  box-shadow: 1px 1px 10px 2px #3a5f5f;
+}
+
+#preview{
+  margin-top: 0%;
+  background-color: #c0d8d8;
+  padding: 20px 0px 20px 20px;
+  width: 100%;
+  box-shadow: 1px 1px 10px 2px #3a5f5f;
+}
